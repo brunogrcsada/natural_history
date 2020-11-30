@@ -30,7 +30,30 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
- 
+  var list = [
+                [
+                  "Dinosaur", 
+                  [Color.fromRGBO(255, 185, 135, 1), Color.fromRGBO(255, 185, 135, 200)],
+                  AssetImage("dinosaur-3149580.png") 
+                ], 
+                [ 
+                  "Reptile", 
+                  [Color.fromRGBO(255, 185, 135, 1), Color.fromRGBO(255, 185, 135, 200)],
+                  AssetImage("dinosaur-3149580.png") 
+                ],
+                [
+                  "Minerals",
+                  [Color.fromRGBO(255, 185, 135, 1), Color.fromRGBO(255, 185, 135, 200)],
+                  AssetImage("dinosaur-3149580.png") 
+                ],
+                [
+
+                  "Something",
+                  [Color.fromRGBO(255, 185, 135, 1), Color.fromRGBO(255, 185, 135, 200)],
+                  AssetImage("dinosaur-3149580.png") 
+                ]
+             ]; 
+
   @override
   Widget build(BuildContext context) {
 
@@ -40,7 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           children: <Widget>[
             Flexible(
-              flex: 2,
+              flex: 4,
               child: Container(
 
                 child: Column(
@@ -59,7 +82,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                   Flexible(
                                     flex: 1, 
                                     child: Container(
-                                      margin: const EdgeInsets.all(25.0),
+                                      margin: const EdgeInsets.all(30.0),
                                       child: Image(image: AssetImage('account.png')
                                       )
                                     )
@@ -84,7 +107,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                         );
                                       },
                                       child: Container(
-                                          margin: const EdgeInsets.all(25.0),
+                                          margin: const EdgeInsets.all(30.0),
                                           child: Image(image: AssetImage('shopping.png')
                                       )
                                     
@@ -98,7 +121,7 @@ class _MyHomePageState extends State<MyHomePage> {
                             Flexible(
                               flex: 2,
                               child: Container(
-                                margin: const EdgeInsets.only(left: 50, right: 50, top: 10),
+                                margin: const EdgeInsets.only(left: 50, right: 50, top: 10, bottom: 10),
 
                                 width: double.infinity,
                                 height: double.infinity,
@@ -126,7 +149,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                       child: Row(
                                         children: [
                                           Container(
-                                            margin: const EdgeInsets.all(13.0),
+                                            margin: const EdgeInsets.all(17.0),
                                             child: Image(image: AssetImage('round_search_white_48dp.png')
                                             )
                                           ),
@@ -169,97 +192,81 @@ class _MyHomePageState extends State<MyHomePage> {
               child: Text(
                 "Categories",
                 textAlign: TextAlign.left,
-                style: TextStyle(
+                style: new TextStyle(
                   fontFamily: 'Montserrat',
-                  fontSize: 30,
+                  fontWeight: FontWeight.w100,
+                  fontSize: 32,
                   color: Colors.white
                 ),
               ),
             ),
 
             Flexible(
-              flex: 2,
+              flex: 5,
               child: Container(
                 child: ListView(
                     scrollDirection: Axis.horizontal,
                     children: <Widget>[
-                      AspectRatio(
-                        aspectRatio: 1,
-                        child: Container(
-                          width: 200.0,
-                          decoration: new BoxDecoration(
+                      for(var item in list )
+                        Container(
+                          margin: const EdgeInsets.only(left: 60.0, bottom: 0.0, right: 0.0, top: 30.0),
+                          child: Container(
+                            child: Stack(
+                              children: [
+                                Positioned.fill(
+                                  child: Align(
+                                    alignment: Alignment.centerRight,
+                                    child: Container(
+                                      alignment: Alignment.topCenter,
+                                      child: Text(
+                                        item[0],
+                                        textAlign: TextAlign.center,
+                                        style: TextStyle(
+                                          fontFamily: 'Montserrat',
+                                          fontSize: 20,
+                                          color: Colors.white
+                                        ),
+                                      ),
+                                    ),             
+                                  ),
+                                ),
+                                
+                                Container(
+                                  height: 180,
+                                  
+                                  margin: const EdgeInsets.only(left: 0.0, bottom: 20.0, right: 0.0, top: 40.0),
 
-                            boxShadow: [
-                              BoxShadow(
-                                color: Colors.black.withOpacity(0.2),
-                                spreadRadius: 5,
-                                blurRadius: 7,
-                                offset: Offset(5, 5), // changes position of shadow
-                              ),
-                            ],
+                                  child: AspectRatio(
+                                    aspectRatio: 1,
+                                    child: Container(
+                                      width: 200.0,
+                                      decoration: new BoxDecoration(
 
-                            gradient: LinearGradient(
-                                begin: Alignment.topCenter,
-                                end: Alignment.bottomCenter,
-                                colors: [Color.fromRGBO(255, 185, 135, 1), Color.fromRGBO(255, 185, 135, 200)]),
-                        
-                            shape: BoxShape.circle,
-                            image: DecorationImage(image: AssetImage("dinosaur-3149580.png"))
-                          ),
-                          margin: const EdgeInsets.only(left: 40.0, top: 20.0, bottom: 0.0, right: 10.0),
-                          
-                        ),
-                      ),
-                      
-                      AspectRatio(
-                        aspectRatio: 1,
-                        child: Container(
-                          width: 200.0,
-                          decoration: new BoxDecoration(
-                            color: Color.fromRGBO(196, 196, 196, 1),
-                            shape: BoxShape.circle
-                          ),
-                          margin: const EdgeInsets.only(left: 40.0, top: 20.0, bottom: 0.0, right: 10.0),
-                        ),
-                      ),
+                                        boxShadow: [
+                                          BoxShadow(
+                                            color: Colors.black.withOpacity(0.2),
+                                            spreadRadius: 5,
+                                            blurRadius: 7,
+                                            offset: Offset(5, 5), // changes position of shadow
+                                          ),
+                                        ],
 
-                      AspectRatio(
-                        aspectRatio: 1,
-                        child: Container(
-                          width: 200.0,
-                          decoration: new BoxDecoration(
-                            color: Color.fromRGBO(196, 196, 196, 1),
-                            shape: BoxShape.circle
+                                        gradient: LinearGradient(
+                                            begin: Alignment.topCenter,
+                                            end: Alignment.bottomCenter,
+                                            colors: item[1]),
+                                    
+                                        shape: BoxShape.circle,
+                                        image: DecorationImage(image: item[2])
+                                      ),
+                                      
+                                    ),
+                                  ),
+                                ),
+                              ],
+                            ),
                           ),
-                          margin: const EdgeInsets.only(left: 40.0, top: 40.0, bottom: 0.0, right: 10.0),
-                          
                         ),
-                      ),
-
-                      AspectRatio(
-                        aspectRatio: 1,
-                        child: Container(
-                          width: 200.0,
-                          decoration: new BoxDecoration(
-                            color: Color.fromRGBO(196, 196, 196, 1),
-                            shape: BoxShape.circle
-                          ),
-                          margin: const EdgeInsets.only(left: 40.0, top: 40.0, bottom: 0.0, right: 10.0),
-                        ),
-                      ),
-
-                      AspectRatio(
-                        aspectRatio: 1,
-                        child: Container(
-                          width: 200.0,
-                          decoration: new BoxDecoration(
-                            color: Color.fromRGBO(196, 196, 196, 1),
-                            shape: BoxShape.circle
-                          ),
-                          margin: const EdgeInsets.only(left: 40.0, top: 40.0, bottom: 0.0, right: 10.0),
-                          
-                        ),
-                      ),
 
                     ],
                   ),
@@ -268,13 +275,13 @@ class _MyHomePageState extends State<MyHomePage> {
 
             Container(
               alignment: Alignment.centerLeft,
-              margin: const EdgeInsets.only(left: 50.0, top: 40.0),
+              margin: const EdgeInsets.only(left: 50.0, top: 10.0),
               child: Text(
                 "Explore",
                 textAlign: TextAlign.left,
                 style: TextStyle(
                   fontFamily: 'Montserrat',
-                  fontSize: 30,
+                  fontSize: 32,
                   color: Colors.white
                 ),
               ),
@@ -282,7 +289,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
             Flexible(
               
-              flex: 4,
+              flex: 8,
               child: Container(
                 width: double.infinity,
                 child: Card(

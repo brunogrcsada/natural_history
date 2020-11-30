@@ -49,6 +49,9 @@ flutter:
     - assets/logo.png
     - assets/shopping.png
     - assets/account.png
+    - assets/dinosaur-3149580.png
+    - assets/priscilla-du-preez-7etIYqqw2jU-unsplash.jpg
+    - assets/round_search_white_48dp.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
@@ -64,7 +67,11 @@ flutter:
   fonts:
     - family: Montserrat
       fonts:
-        - asset: assets/Montserrat-Regular.ttf
+        - asset: fonts/Montserrat-Regular.ttf
+        - asset: fonts/Montserrat-Black.ttf
+        - asset: fonts/Montserrat-BlackItalic.ttf
+        - asset: fonts/Montserrat-Bold.ttf
+        
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro

@@ -21,6 +21,8 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
+  flutter_swiper: ^1.1.6
+  icon_shadow: ^1.0.1
   flutter:
     sdk: flutter
 
@@ -52,6 +54,7 @@ flutter:
     - assets/dinosaur-3149580.png
     - assets/priscilla-du-preez-7etIYqqw2jU-unsplash.jpg
     - assets/round_search_white_48dp.png
+    - assets/lizard-3064164.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

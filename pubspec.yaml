@@ -21,6 +21,7 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
+  arcore_flutter_plugin: ^0.0.10
   flutter_swiper: ^1.1.6
   icon_shadow: ^1.0.1
   flutter:

@@ -2,6 +2,12 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "arcore_flutter_plugin",
+      "rootUri": "file:///home/bruno/.pub-cache/hosted/pub.dartlang.org/arcore_flutter_plugin-0.0.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
       "name": "async",
       "rootUri": "file:///home/bruno/.pub-cache/hosted/pub.dartlang.org/async-2.5.0-nullsafety.3",
       "packageUri": "lib/",
@@ -40,6 +46,12 @@
     {
       "name": "cupertino_icons",
       "rootUri": "file:///home/bruno/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "equatable",
+      "rootUri": "file:///home/bruno/.pub-cache/hosted/pub.dartlang.org/equatable-1.2.5",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
@@ -164,7 +176,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-12-05T08:39:50.731775Z",
+  "generated": "2020-12-06T16:15:16.048796Z",
   "generator": "pub",
   "generatorVersion": "2.12.0-29.10.beta"
 }

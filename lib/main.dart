@@ -1,4 +1,4 @@
-import 'dart:html';
+//import 'dart:html';
 import 'package:flutter_swiper/flutter_swiper.dart';
 import 'package:flutter/material.dart';
 import 'package:icon_shadow/icon_shadow.dart';
@@ -38,27 +38,27 @@ class _MyHomePageState extends State<MyHomePage> {
                   0,
                   "Dinosaurs", 
                   [Color.fromRGBO(255, 185, 135, 1), Color.fromRGBO(255, 185, 135, 200)],
-                  AssetImage("dinosaur-3149580.png"),
+                  AssetImage("assets/dinosaur-3149580.png"),
                   Alignment(10.0, 0.0)
                 ], 
                 [ 1,
                   "Reptiles", 
                   [Color.fromRGBO(175, 233, 178, 1), Color.fromRGBO(175, 233, 178, 200)],
-                  AssetImage("lizard-3064164.png"),
+                  AssetImage("assets/lizard-3064164.png"),
                   Alignment(0.0, 1.0) 
                 ],
                 [
                   2,
                   "Minerals",
                   [Color.fromRGBO(255, 185, 135, 1), Color.fromRGBO(255, 185, 135, 200)],
-                  AssetImage("dinosaur-3149580.png"),
+                  AssetImage("assets/dinosaur-3149580.png"),
                   Alignment(0.0, 1.0) 
                 ],
                 [
                   3,
                   "Something",
                   [Color.fromRGBO(255, 185, 135, 1), Color.fromRGBO(255, 185, 135, 200)],
-                  AssetImage("dinosaur-3149580.png"),
+                  AssetImage("assets/dinosaur-3149580.png"),
                   Alignment(0.0, 1.0) 
                 ]
              ]; 
@@ -92,7 +92,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                     flex: 1, 
                                     child: Container(
                                       margin: const EdgeInsets.all(30.0),
-                                      child: Image(image: AssetImage('account.png')
+                                      child: Image(image: AssetImage('assets/account.png')
                                       )
                                     )
                                   ),
@@ -101,7 +101,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                     flex: 1, 
                                     child: Container(
                                       margin: const EdgeInsets.all(13.0),
-                                      child: Image(image: AssetImage('logo.png')
+                                      child: Image(image: AssetImage('assets/logo.png')
                                       )
                                     )
                                   ),
@@ -117,7 +117,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                       },
                                       child: Container(
                                           margin: const EdgeInsets.all(30.0),
-                                          child: Image(image: AssetImage('shopping.png')
+                                          child: Image(image: AssetImage('assets/shopping.png')
                                       )
                                     
                                       )
@@ -159,7 +159,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                         children: [
                                           Container(
                                             margin: const EdgeInsets.only(left:16.0, top: 13, bottom: 13),
-                                            child: Image(image: AssetImage('round_search_white_48dp.png')
+                                            child: Image(image: AssetImage('assets/round_search_white_48dp.png')
                                             )
                                           ),
 
@@ -434,10 +434,10 @@ class MyWidget extends StatelessWidget {
                 MaterialPageRoute(builder: (context) => globalSetup(Customers('', '', '', '', 0, "", '','', ''), 'Add Customer' )),
               );*/
             } else if(widgetStructure.id == 1){
-              /*Navigator.push(
+              Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => NewBooking(Bookings(0,0,'',0,''), 'Create Booking')),
-              );*/
+                MaterialPageRoute(builder: (context) => HelloWorld()),
+              );
             } else{
               /*Navigator.push(
                 context,

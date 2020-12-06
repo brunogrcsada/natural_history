@@ -1,8 +1,15 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.natural_history">
+    package="com.example.natural_history"
+    xmlns:tools="http://schemas.android.com/tools">
+
+   <uses-permission android:name="android.permission.CAMERA" />
+   <uses-sdk android:minSdkVersion="24" />
+   <uses-feature android:name="android.hardware.camera.ar" />
+
    <application
         android:label="natural_history"
         android:icon="@mipmap/ic_launcher">
+       
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
@@ -27,6 +34,9 @@
               android:name="io.flutter.embedding.android.SplashScreenDrawable"
               android:resource="@drawable/launch_background"
               />
+              
+            <meta-data android:name="com.google.ar.core" android:value="required" tools:replace="android:value" />
+        
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>

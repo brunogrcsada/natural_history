@@ -1,22 +1,10 @@
-#Sun Dec 06 16:16:10 GMT 2020
-path.4=classes.dex
-path.3=classes.dex
-path.2=classes.dex
-path.1=classes.dex
-path.6=classes.dex
-path.5=classes.dex
-path.0=classes.dex
-base.4=/home/bruno/GitHub/natural_history/build/app/intermediates/transforms/dexMerger/debug/4
-base.3=/home/bruno/GitHub/natural_history/build/app/intermediates/transforms/dexMerger/debug/3
+#Sun Jan 03 17:20:58 GMT 2021
 base.2=/home/bruno/GitHub/natural_history/build/app/intermediates/transforms/dexMerger/debug/2
+path.2=classes.dex
 base.1=/home/bruno/GitHub/natural_history/build/app/intermediates/transforms/dexMerger/debug/1
+path.1=classes.dex
 base.0=/home/bruno/GitHub/natural_history/build/app/intermediates/transforms/dexMerger/debug/0
-renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-renamed.6=classes7.dex
-renamed.5=classes6.dex
-base.6=/home/bruno/GitHub/natural_history/build/app/intermediates/transforms/dexMerger/debug/6
-renamed.4=classes5.dex
-base.5=/home/bruno/GitHub/natural_history/build/app/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex

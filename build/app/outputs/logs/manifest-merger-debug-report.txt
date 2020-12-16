@@ -5,33 +5,33 @@ INJECTED from /home/bruno/GitHub/natural_history/android/app/src/main/AndroidMan
 INJECTED from /home/bruno/GitHub/natural_history/android/app/src/main/AndroidManifest.xml:1:1-51:12
 INJECTED from /home/bruno/GitHub/natural_history/android/app/src/main/AndroidManifest.xml:1:1-51:12
 MERGED from /home/bruno/GitHub/natural_history/android/app/src/main/AndroidManifest.xml:1:1-51:12
-MERGED from [:arcore_flutter_plugin] /home/bruno/GitHub/natural_history/build/arcore_flutter_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-31:12
+MERGED from [com.difrancescogianmarco.arcore_flutter_plugin:arcore_flutter_plugin_release:1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/4aaf7e21f4a0a0133c7af42bdaff6e2a/AndroidManifest.xml:2:1-31:12
 MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/e0d149a211711bfe33fdf7c3cc6b2732/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.ar.sceneform:core:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/494db8ee9eaed00bb191dffc82c749d5/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.ar.sceneform:rendering:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/9f6fc5904c8c8bbf4691ec8e16ee68fe/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.ar:core:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/13be69e132b9ce1cd68aa769c9359768/AndroidManifest.xml:17:1-46:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/604329c9382882eacb4c7dc7f4f4d6c8/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/9fbfa287dec08b467e0c550a3f50aba8/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/9a093716ab360a70053633a8d96f21b4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.ar.sceneform:assets:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/1d0435c737b9e7dc6aac1b3c2ef66635/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.core:core-ktx:1.3.0-alpha01] /home/bruno/.gradle/caches/transforms-2/files-2.1/3e63cf8ced36267fc195e09e1f344342/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/bdaf82b8ea834c550121e06ce7eea793/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/3b5e420daf55409b5bc5e4a455ca2637/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/9fbfa287dec08b467e0c550a3f50aba8/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/bf6e78c9033d19396c70d6cbad24686e/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/2eea6e8b388687a177cd7c323d3e50de/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/90bed80f1d91efa65ea6ef19700f6ebe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/bdaf82b8ea834c550121e06ce7eea793/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/3b5e420daf55409b5bc5e4a455ca2637/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/9a093716ab360a70053633a8d96f21b4/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/47f4c15f9cfeb03db31cca25faad0572/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/278b3ac4d1e9c71cb8a60d204f12c1e8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/90bed80f1d91efa65ea6ef19700f6ebe/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.3.0-alpha01] /home/bruno/.gradle/caches/transforms-2/files-2.1/bdad912c1bf568036ff349126e44ccb8/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/fc85ef5049b7134f5ac8f0262d73fdef/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/7fd2cf079606b27cb36f813c1eea34eb/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/6f25d19d4bfc97191bb98237baaa5e71/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/fb45f539d93626d79dcae698a4886cad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/b4c70b90767972e77d75bfb21f24a7e4/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/db11c997e7f4015daa6de49f6ca7aae3/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/d55d42766acbd2bb453692d8cef89da0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/b4c70b90767972e77d75bfb21f24a7e4/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/76d5afd625b7a3c6291a3f86cfc37fdf/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/4e0233304e7ec7e55edeb69592a87d63/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.ar.sceneform:assets:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/1d0435c737b9e7dc6aac1b3c2ef66635/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.ar.sceneform:sceneform-base:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/416507d3374171b3430c2bd93b552cd9/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.ar.sceneform:filament-android:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/4cfd5f6f5b48bcd12058cbb22c6772ce/AndroidManifest.xml:2:1-11:12
 INJECTED from /home/bruno/GitHub/natural_history/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -56,16 +56,16 @@ INJECTED from /home/bruno/GitHub/natural_history/android/app/src/debug/AndroidMa
 		ADDED from /home/bruno/GitHub/natural_history/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.CAMERA
 ADDED from /home/bruno/GitHub/natural_history/android/app/src/main/AndroidManifest.xml:5:4-64
-MERGED from [:arcore_flutter_plugin] /home/bruno/GitHub/natural_history/build/arcore_flutter_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-65
-MERGED from [:arcore_flutter_plugin] /home/bruno/GitHub/natural_history/build/arcore_flutter_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-65
+MERGED from [com.difrancescogianmarco.arcore_flutter_plugin:arcore_flutter_plugin_release:1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/4aaf7e21f4a0a0133c7af42bdaff6e2a/AndroidManifest.xml:7:5-65
+MERGED from [com.difrancescogianmarco.arcore_flutter_plugin:arcore_flutter_plugin_release:1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/4aaf7e21f4a0a0133c7af42bdaff6e2a/AndroidManifest.xml:7:5-65
 	android:name
 		ADDED from /home/bruno/GitHub/natural_history/android/app/src/main/AndroidManifest.xml:5:21-61
 uses-sdk
 ADDED from /home/bruno/GitHub/natural_history/android/app/src/main/AndroidManifest.xml:6:4-43
 INJECTED from /home/bruno/GitHub/natural_history/android/app/src/main/AndroidManifest.xml:6:4-43
 INJECTED from /home/bruno/GitHub/natural_history/android/app/src/main/AndroidManifest.xml:6:4-43
-MERGED from [:arcore_flutter_plugin] /home/bruno/GitHub/natural_history/build/arcore_flutter_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:arcore_flutter_plugin] /home/bruno/GitHub/natural_history/build/arcore_flutter_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.difrancescogianmarco.arcore_flutter_plugin:arcore_flutter_plugin_release:1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/4aaf7e21f4a0a0133c7af42bdaff6e2a/AndroidManifest.xml:5:5-44
+MERGED from [com.difrancescogianmarco.arcore_flutter_plugin:arcore_flutter_plugin_release:1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/4aaf7e21f4a0a0133c7af42bdaff6e2a/AndroidManifest.xml:5:5-44
 MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/e0d149a211711bfe33fdf7c3cc6b2732/AndroidManifest.xml:20:5-44
 MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/e0d149a211711bfe33fdf7c3cc6b2732/AndroidManifest.xml:20:5-44
 MERGED from [com.google.ar.sceneform:core:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/494db8ee9eaed00bb191dffc82c749d5/AndroidManifest.xml:5:5-44
@@ -76,26 +76,28 @@ MERGED from [com.google.ar:core:1.13.0] /home/bruno/.gradle/caches/transforms-2/
 MERGED from [com.google.ar:core:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/13be69e132b9ce1cd68aa769c9359768/AndroidManifest.xml:26:5-28:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/604329c9382882eacb4c7dc7f4f4d6c8/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/604329c9382882eacb4c7dc7f4f4d6c8/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/9fbfa287dec08b467e0c550a3f50aba8/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/9fbfa287dec08b467e0c550a3f50aba8/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/9a093716ab360a70053633a8d96f21b4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/9a093716ab360a70053633a8d96f21b4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.ar.sceneform:assets:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/1d0435c737b9e7dc6aac1b3c2ef66635/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:assets:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/1d0435c737b9e7dc6aac1b3c2ef66635/AndroidManifest.xml:5:5-44
 MERGED from [androidx.core:core-ktx:1.3.0-alpha01] /home/bruno/.gradle/caches/transforms-2/files-2.1/3e63cf8ced36267fc195e09e1f344342/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.3.0-alpha01] /home/bruno/.gradle/caches/transforms-2/files-2.1/3e63cf8ced36267fc195e09e1f344342/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/bdaf82b8ea834c550121e06ce7eea793/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/bdaf82b8ea834c550121e06ce7eea793/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/3b5e420daf55409b5bc5e4a455ca2637/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/3b5e420daf55409b5bc5e4a455ca2637/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/9fbfa287dec08b467e0c550a3f50aba8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/9fbfa287dec08b467e0c550a3f50aba8/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/bf6e78c9033d19396c70d6cbad24686e/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/bf6e78c9033d19396c70d6cbad24686e/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/2eea6e8b388687a177cd7c323d3e50de/AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/2eea6e8b388687a177cd7c323d3e50de/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/90bed80f1d91efa65ea6ef19700f6ebe/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/90bed80f1d91efa65ea6ef19700f6ebe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/bdaf82b8ea834c550121e06ce7eea793/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/bdaf82b8ea834c550121e06ce7eea793/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/3b5e420daf55409b5bc5e4a455ca2637/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/3b5e420daf55409b5bc5e4a455ca2637/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/9a093716ab360a70053633a8d96f21b4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/9a093716ab360a70053633a8d96f21b4/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/47f4c15f9cfeb03db31cca25faad0572/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/47f4c15f9cfeb03db31cca25faad0572/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/278b3ac4d1e9c71cb8a60d204f12c1e8/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/278b3ac4d1e9c71cb8a60d204f12c1e8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/90bed80f1d91efa65ea6ef19700f6ebe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/90bed80f1d91efa65ea6ef19700f6ebe/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.3.0-alpha01] /home/bruno/.gradle/caches/transforms-2/files-2.1/bdad912c1bf568036ff349126e44ccb8/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.3.0-alpha01] /home/bruno/.gradle/caches/transforms-2/files-2.1/bdad912c1bf568036ff349126e44ccb8/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/fc85ef5049b7134f5ac8f0262d73fdef/AndroidManifest.xml:20:5-22:41
@@ -106,18 +108,16 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/bruno/.gradle/ca
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/6f25d19d4bfc97191bb98237baaa5e71/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/fb45f539d93626d79dcae698a4886cad/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/fb45f539d93626d79dcae698a4886cad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/b4c70b90767972e77d75bfb21f24a7e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/b4c70b90767972e77d75bfb21f24a7e4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/db11c997e7f4015daa6de49f6ca7aae3/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/db11c997e7f4015daa6de49f6ca7aae3/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/d55d42766acbd2bb453692d8cef89da0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/d55d42766acbd2bb453692d8cef89da0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/b4c70b90767972e77d75bfb21f24a7e4/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/b4c70b90767972e77d75bfb21f24a7e4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/76d5afd625b7a3c6291a3f86cfc37fdf/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/76d5afd625b7a3c6291a3f86cfc37fdf/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/4e0233304e7ec7e55edeb69592a87d63/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/4e0233304e7ec7e55edeb69592a87d63/AndroidManifest.xml:20:5-44
-MERGED from [com.google.ar.sceneform:assets:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/1d0435c737b9e7dc6aac1b3c2ef66635/AndroidManifest.xml:5:5-44
-MERGED from [com.google.ar.sceneform:assets:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/1d0435c737b9e7dc6aac1b3c2ef66635/AndroidManifest.xml:5:5-44
 MERGED from [com.google.ar.sceneform:sceneform-base:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/416507d3374171b3430c2bd93b552cd9/AndroidManifest.xml:5:5-44
 MERGED from [com.google.ar.sceneform:sceneform-base:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/416507d3374171b3430c2bd93b552cd9/AndroidManifest.xml:5:5-44
 MERGED from [com.google.ar.sceneform:filament-android:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/4cfd5f6f5b48bcd12058cbb22c6772ce/AndroidManifest.xml:7:5-9:41
@@ -133,14 +133,14 @@ INJECTED from /home/bruno/GitHub/natural_history/android/app/src/debug/AndroidMa
 		INJECTED from /home/bruno/GitHub/natural_history/android/app/src/debug/AndroidManifest.xml
 uses-feature#android.hardware.camera.ar
 ADDED from /home/bruno/GitHub/natural_history/android/app/src/main/AndroidManifest.xml:7:4-62
-MERGED from [:arcore_flutter_plugin] /home/bruno/GitHub/natural_history/build/arcore_flutter_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-63
-MERGED from [:arcore_flutter_plugin] /home/bruno/GitHub/natural_history/build/arcore_flutter_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-63
+MERGED from [com.difrancescogianmarco.arcore_flutter_plugin:arcore_flutter_plugin_release:1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/4aaf7e21f4a0a0133c7af42bdaff6e2a/AndroidManifest.xml:13:5-63
+MERGED from [com.difrancescogianmarco.arcore_flutter_plugin:arcore_flutter_plugin_release:1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/4aaf7e21f4a0a0133c7af42bdaff6e2a/AndroidManifest.xml:13:5-63
 	android:name
 		ADDED from /home/bruno/GitHub/natural_history/android/app/src/main/AndroidManifest.xml:7:18-59
 application
 ADDED from /home/bruno/GitHub/natural_history/android/app/src/main/AndroidManifest.xml:9:4-50:19
-MERGED from [:arcore_flutter_plugin] /home/bruno/GitHub/natural_history/build/arcore_flutter_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-29:19
-MERGED from [:arcore_flutter_plugin] /home/bruno/GitHub/natural_history/build/arcore_flutter_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-29:19
+MERGED from [com.difrancescogianmarco.arcore_flutter_plugin:arcore_flutter_plugin_release:1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/4aaf7e21f4a0a0133c7af42bdaff6e2a/AndroidManifest.xml:20:5-29:19
+MERGED from [com.difrancescogianmarco.arcore_flutter_plugin:arcore_flutter_plugin_release:1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/4aaf7e21f4a0a0133c7af42bdaff6e2a/AndroidManifest.xml:20:5-29:19
 MERGED from [com.google.ar:core:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/13be69e132b9ce1cd68aa769c9359768/AndroidManifest.xml:30:5-44:19
 MERGED from [com.google.ar:core:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/13be69e132b9ce1cd68aa769c9359768/AndroidManifest.xml:30:5-44:19
 MERGED from [androidx.core:core:1.3.0-alpha01] /home/bruno/.gradle/caches/transforms-2/files-2.1/bdad912c1bf568036ff349126e44ccb8/AndroidManifest.xml:24:5-89
@@ -208,11 +208,11 @@ ADDED from /home/bruno/GitHub/natural_history/android/app/src/debug/AndroidManif
 	android:name
 		ADDED from /home/bruno/GitHub/natural_history/android/app/src/debug/AndroidManifest.xml:6:22-64
 uses-feature#0x00030000
-ADDED from [:arcore_flutter_plugin] /home/bruno/GitHub/natural_history/build/arcore_flutter_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-18:35
+ADDED from [com.difrancescogianmarco.arcore_flutter_plugin:arcore_flutter_plugin_release:1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/4aaf7e21f4a0a0133c7af42bdaff6e2a/AndroidManifest.xml:16:5-18:35
 	android:glEsVersion
-		ADDED from [:arcore_flutter_plugin] /home/bruno/GitHub/natural_history/build/arcore_flutter_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-41
+		ADDED from [com.difrancescogianmarco.arcore_flutter_plugin:arcore_flutter_plugin_release:1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/4aaf7e21f4a0a0133c7af42bdaff6e2a/AndroidManifest.xml:17:9-41
 	android:required
-		ADDED from [:arcore_flutter_plugin] /home/bruno/GitHub/natural_history/build/arcore_flutter_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-32
+		ADDED from [com.difrancescogianmarco.arcore_flutter_plugin:arcore_flutter_plugin_release:1.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/4aaf7e21f4a0a0133c7af42bdaff6e2a/AndroidManifest.xml:18:9-32
 meta-data#com.google.ar.core.min_apk_version
 ADDED from [com.google.ar:core:1.13.0] /home/bruno/.gradle/caches/transforms-2/files-2.1/13be69e132b9ce1cd68aa769c9359768/AndroidManifest.xml:33:9-35:41
 	android:value

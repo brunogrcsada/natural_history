@@ -14,6 +14,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "audioplayer_web",
+      "rootUri": "file:///home/bruno/.pub-cache/hosted/pub.dartlang.org/audioplayer_web-0.7.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "boolean_selector",
       "rootUri": "file:///home/bruno/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0-nullsafety.3",
       "packageUri": "lib/",
@@ -86,10 +92,22 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///opt/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "icon_shadow",
       "rootUri": "file:///home/bruno/.pub-cache/hosted/pub.dartlang.org/icon_shadow-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.0"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///home/bruno/.pub-cache/hosted/pub.dartlang.org/js-0.6.3-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "matcher",
@@ -176,7 +194,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-12-06T16:15:16.048796Z",
+  "generated": "2021-01-03T18:25:59.960106Z",
   "generator": "pub",
-  "generatorVersion": "2.12.0-29.10.beta"
+  "generatorVersion": "2.12.0-133.2.beta"
 }

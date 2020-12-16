@@ -15,6 +15,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.5.0-nullsafety.3"
+  audioplayer_web:
+    dependency: "direct main"
+    description:
+      name: audioplayer_web
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.7.1"
   boolean_selector:
     dependency: transitive
     description:
@@ -95,6 +102,11 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_web_plugins:
+    dependency: transitive
+    description: flutter
+    source: sdk
+    version: "0.0.0"
   icon_shadow:
     dependency: "direct main"
     description:
@@ -102,6 +114,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.1"
+  js:
+    dependency: transitive
+    description:
+      name: js
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.6.3-nullsafety.3"
   matcher:
     dependency: transitive
     description:

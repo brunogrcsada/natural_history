@@ -49,6 +49,7 @@ android {
         targetSdkVersion 28
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
+        multiDexEnabled true
     }
 
     buildTypes {
@@ -76,3 +77,10 @@ sceneform.asset('sampledata/BlueWhaleSkeleton/scene.gltf', // 'Source Asset Path
         'default',                            // 'Material Path' specified during import.
         'sampledata/BlueWhaleSkeleton/scene.sfa',         // '.sfa Output Path' specified during import.
         'src/main/assets/WhaleModel')              // '.sfb Output Path' specified during import.
+
+
+sceneform.asset('sampledata/ChimpanzeeSkull/scene.gltf',
+        'default', 
+        'sampledata/ChimpanzeeSkull/scene.sfa',
+        'src/main/assets/ChimpanzeeModel')
+

@@ -24,6 +24,8 @@ dependencies:
   arcore_flutter_plugin: ^0.0.10
   flutter_swiper: ^1.1.6
   icon_shadow: ^1.0.1
+  audioplayer_web: 0.7.1
+
   flutter:
     sdk: flutter
 
@@ -56,6 +58,31 @@ flutter:
     - assets/priscilla-du-preez-7etIYqqw2jU-unsplash.jpg
     - assets/round_search_white_48dp.png
     - assets/lizard-3064164.png
+    - assets/round_undo_white_48dp.png
+    - assets/9780565094126-whales-a-complete-guide-to-their-biology-and-behaviour-1.jpg
+    - assets/9780565094775-hope_1.jpg
+    - assets/a10488-plush-cuddlekins-large-t-rex-nhm-3.jpg
+    - assets/apes.jpg
+    - assets/bluew.jpg
+    - assets/ghana-elephant-intermediate-ear-two-column.jpg.thumb.768.768.jpg
+    - assets/giraffe-2879527_1920.png
+    - assets/kevin-mueller-1gUES9J7Ph8-unsplash.jpg
+    - assets/round_undo_white_48dp.png
+    - assets/wild-1280151_1920.png
+    - assets/blue-whale-underwater-skinny-full-width.jpg
+    - assets/baseline_local_mall_white_48dp.png
+    - assets/elephant-1049838_1280.png
+    - assets/blue-whale-front-full-width.png
+    - assets/bear_head.png
+    - assets/andy-holmes-D6TqIa-tWRY-unsplash.jpg
+    - assets/1934-installation-blue-whale-baby-hero.jpg
+    - assets/a22396-plush-blue-whale-wbts-3.jpg
+    - assets/apes_main.jpg
+    - assets/dragonfly-3523034_1920.png
+    - assets/isolated-1072466_1920.png
+    - assets/round_volume_off_white_48dp.png
+    - assets/round_volume_up_white_48dp.png
+    - assets/hope_recording.m4a
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
